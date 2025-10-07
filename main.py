@@ -1,5 +1,5 @@
 def main():
-    print("Hello from offline-model!")
+    print("Hello from offline-model")
 
 
 if __name__ == "__main__":
