@@ -1,0 +1,7 @@
+[project]
+name = "offline-model"
+version = "0.1.0"
+description = "It is a chat application. we use this application to add the documents to the database. Also we fetch the details required for the documents."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
